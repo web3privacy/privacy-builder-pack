@@ -1886,6 +1886,18 @@
         ]
       },
       {
+        "name": "Dynebolic",
+        "link": "https://dynebolic.org",
+        "description": "Dynebolic is a 100% Free Software Operating System for multimedia production, recommended by the Free Software Foundation",
+        "tags": [
+          "os",
+          "privacy",
+          "security",
+          "journalism",
+          "whistleblowing"
+        ]
+      },
+      {
         "name": "OpenSnitch",
         "link": "https://github.com/evilsocket/opensnitch",
         "description": "A GNU/Linux interactive application firewall.",
