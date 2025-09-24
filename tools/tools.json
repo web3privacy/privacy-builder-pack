@@ -416,6 +416,16 @@
       },
       {
         "tags": [
+          "encryption",
+          "security",
+          "privacy"
+        ],
+        "name": "Tomb",
+        "description": "Tomb is a system to make strong encryption easy for everyday use. A tomb is like a locked folder that can be safely transported and hidden in a filesystem.",
+        "link": "https://dyne.org/software/tomb"
+      },
+      {
+        "tags": [
           "osint",
           "resources"
         ],
