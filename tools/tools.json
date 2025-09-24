@@ -26,6 +26,17 @@
       },
       {
         "tags": [
+          "blockchain",
+          "decentralised",
+          "cryptography",
+          "zero-knowledge"
+        ],
+        "name": "Zenroom",
+        "description": "Crypto VM for database and blockchain: Zenroom is a tiny and portable virtual machine that integrates in any application to authenticate and restrict access to data.",
+        "link": "https://zenroom.org/"
+      },
+      {
+        "tags": [
           "ethereum",
           "framework"
         ],
