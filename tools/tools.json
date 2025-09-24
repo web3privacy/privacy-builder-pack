@@ -2113,6 +2113,16 @@
         ]
       },
       {
+        "name": "Frei0r",
+        "link": "https://dyne.org/software/frei0r",
+        "description": "Frei0r is free and open source plugin collection for video effects. Applications can use its API to embed more than 100 video filters, sources and mixers. ",
+        "tags": [
+          "resources",
+          "journalism",
+          "whistleblowing"
+        ]
+      },
+      {
         "name": "GIMP",
         "link": "https://www.gimp.org/",
         "description": "The GNU Image Manipulation Program, a free and open-source raster graphics editor.",
