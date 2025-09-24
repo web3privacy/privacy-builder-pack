@@ -942,6 +942,16 @@
         ]
       },
       {
+        "name": "Darkice",
+        "link": "http://darkice.org/",
+        "description": "DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.",
+        "tags": [
+          "journalism",
+          "social",
+          "whistleblowing"
+        ]
+      },
+      {
         "name": "Friendica",
         "link": "https://friendica.com/",
         "description": "A decentralized social network with no central authority or ownership.",
