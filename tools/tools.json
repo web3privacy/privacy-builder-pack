@@ -2123,6 +2123,15 @@
         ]
       },
       {
+        "name": "MuSE",
+        "link": "https://dyne.org/software/muse/",
+        "description": "MuSE is an application for the mixing, encoding, and network streaming of sound: it can mix a microphone and multiple channels and transmit to the Internet.",
+        "tags": [
+          "resources",
+          "journalism"
+        ]
+      },
+      {
         "name": "GIMP",
         "link": "https://www.gimp.org/",
         "description": "The GNU Image Manipulation Program, a free and open-source raster graphics editor.",
