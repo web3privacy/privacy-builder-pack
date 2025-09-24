@@ -1089,6 +1089,16 @@
       {
         "tags": [
           "browser",
+          "privacy",
+          "anonymity"
+        ],
+        "name": "tinfoil",
+        "description": "A minimalist tool to manage multiple profiles for web browsers aka The no-nonsense web wrapper.",
+        "link": "https://github.com/dyne/tinfoil"
+      },
+      {
+        "tags": [
+          "browser",
           "adblock",
           "privacy",
           "security"
