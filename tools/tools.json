@@ -1898,6 +1898,16 @@
         ]
       },
       {
+        "name": "Devuan",
+        "link": "https://www.devuan.org/",
+        "description": "Devuan GNU+Linux is a fork of Debian without systemd that allows users to reclaim control over their system by avoiding unnecessary entanglements and ensuring Init Freedom.",
+        "tags": [
+          "os",
+          "privacy",
+          "security"
+        ]
+      },
+      {
         "name": "OpenSnitch",
         "link": "https://github.com/evilsocket/opensnitch",
         "description": "A GNU/Linux interactive application firewall.",
