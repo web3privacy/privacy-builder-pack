@@ -26,6 +26,17 @@
       },
       {
         "tags": [
+          "blockchain",
+          "decentralised",
+          "cryptography",
+          "zero-knowledge"
+        ],
+        "name": "Zenroom",
+        "description": "Crypto VM for database and blockchain: Zenroom is a tiny and portable virtual machine that integrates in any application to authenticate and restrict access to data.",
+        "link": "https://zenroom.org/"
+      },
+      {
+        "tags": [
           "ethereum",
           "framework"
         ],
@@ -413,6 +424,16 @@
         "name": "TOSINT",
         "description": "Telegram OSINT tool to extract information from Telegram Bots and Channels.",
         "link": "https://github.com/drego85/tosint"
+      },
+      {
+        "tags": [
+          "encryption",
+          "security",
+          "privacy"
+        ],
+        "name": "Tomb",
+        "description": "Tomb is a system to make strong encryption easy for everyday use. A tomb is like a locked folder that can be safely transported and hidden in a filesystem.",
+        "link": "https://dyne.org/software/tomb"
       },
       {
         "tags": [
@@ -942,6 +963,16 @@
         ]
       },
       {
+        "name": "Darkice",
+        "link": "http://darkice.org/",
+        "description": "DarkIce is a live audio streamer. It records audio from an audio interface (e.g. sound card), encodes it and sends it to a streaming server.",
+        "tags": [
+          "journalism",
+          "social",
+          "whistleblowing"
+        ]
+      },
+      {
         "name": "Friendica",
         "link": "https://friendica.com/",
         "description": "A decentralized social network with no central authority or ownership.",
@@ -1054,6 +1085,16 @@
         "name": "Duckduckgo",
         "description": "Privacy-focused search engine and browser.",
         "link": "https://duckduckgo.com/"
+      },
+      {
+        "tags": [
+          "browser",
+          "privacy",
+          "anonymity"
+        ],
+        "name": "tinfoil",
+        "description": "A minimalist tool to manage multiple profiles for web browsers aka The no-nonsense web wrapper.",
+        "link": "https://github.com/dyne/tinfoil"
       },
       {
         "tags": [
@@ -1886,6 +1927,28 @@
         ]
       },
       {
+        "name": "Dynebolic",
+        "link": "https://dynebolic.org",
+        "description": "Dynebolic is a 100% Free Software Operating System for multimedia production, recommended by the Free Software Foundation",
+        "tags": [
+          "os",
+          "privacy",
+          "security",
+          "journalism",
+          "whistleblowing"
+        ]
+      },
+      {
+        "name": "Devuan",
+        "link": "https://www.devuan.org/",
+        "description": "Devuan GNU+Linux is a fork of Debian without systemd that allows users to reclaim control over their system by avoiding unnecessary entanglements and ensuring Init Freedom.",
+        "tags": [
+          "os",
+          "privacy",
+          "security"
+        ]
+      },
+      {
         "name": "OpenSnitch",
         "link": "https://github.com/evilsocket/opensnitch",
         "description": "A GNU/Linux interactive application firewall.",
@@ -2078,6 +2141,25 @@
         "description": "A free and open-source video editing software.",
         "tags": [
           "resources"
+        ]
+      },
+      {
+        "name": "Frei0r",
+        "link": "https://dyne.org/software/frei0r",
+        "description": "Frei0r is free and open source plugin collection for video effects. Applications can use its API to embed more than 100 video filters, sources and mixers. ",
+        "tags": [
+          "resources",
+          "journalism",
+          "whistleblowing"
+        ]
+      },
+      {
+        "name": "MuSE",
+        "link": "https://dyne.org/software/muse/",
+        "description": "MuSE is an application for the mixing, encoding, and network streaming of sound: it can mix a microphone and multiple channels and transmit to the Internet.",
+        "tags": [
+          "resources",
+          "journalism"
         ]
       },
       {
