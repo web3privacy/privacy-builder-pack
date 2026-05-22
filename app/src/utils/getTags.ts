@@ -1,5 +1,5 @@
-import toolsData from "../data/tools.json"
-import privacyFocusedToolsData from "../data/privacyFocusedTools.json"
+import toolsData from "@/data/tools.json"
+import privacyFocusedToolsData from "@/data/privacyFocusedTools.json"
 import { ToolsData } from "@/types/tools"
 
 export function getAllTags(): string[] {
