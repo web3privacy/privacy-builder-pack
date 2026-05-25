@@ -56,6 +56,12 @@ A flat list of privacy-related tools, protocols, libraries, and resources.
 
 ---
 
+## Dev container
+
+For a reproducible environment with Node 24 LTS (24.16.0), Claude Code, and Git over SSH (no GitHub CLI required), see [.devcontainer/README.md](.devcontainer/README.md). Open the repo in VS Code or Cursor and run **Dev Containers: Reopen in Container**.
+
+---
+
 ## How to Contribute
 
 We welcome your contributions! You can fork the repo, and:

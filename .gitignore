@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# Local-only workspace folder for files staged to be uploaded to Filebase / IPFS
+upload-to-filebase/
+
+# Hero video binaries — host these externally (Filebase / IPFS), not in git
+app/public/PrivacyBuilderPackIntro*.mp4
+app/public/intro-*.mp4
+app/public/intro-*.webm
