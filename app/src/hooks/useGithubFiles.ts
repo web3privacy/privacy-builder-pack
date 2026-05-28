@@ -16,6 +16,11 @@ export function useGithubFiles({
 }: UseGithubFilesOptions) {
   const files = useMemo(() => {
     const fetchFiles = async (): Promise<GitHubFile[]> => {
+      // Skip on the server (Next.js static prerender) — GitHub's anonymous
+      // API rate limit (60/hr per IP) is shared across CI runners and trips
+      // the build. The client refetches after hydration.
+      if (typeof window === "undefined") return []
+
       const apiUrl = `https://api.github.com/repos/${repoOwner}/${repoName}/contents/${folderPath}`
 
       const response = await fetch(apiUrl)
