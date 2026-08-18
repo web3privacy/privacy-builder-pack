@@ -2273,6 +2273,15 @@
         ]
       },
       {
+        "name": "Metadata Remover",
+        "link": "https://metadataremover.ai/",
+        "description": "A browser-based toolkit for viewing, editing and removing metadata from images, PDFs, documents, videos and audio.",
+        "tags": [
+          "privacy",
+          "security"
+        ]
+      },
+      {
         "name": "FreedomBox",
         "link": "https://freedombox.org/",
         "description": "A personal server that runs free software for self-hosting.",
